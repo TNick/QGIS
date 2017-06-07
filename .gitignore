@@ -70,4 +70,5 @@ python/plugins/processing/tests/testdata/custom/grass7/*.aux.xml
 python/plugins/processing/tests/testdata/custom/*.aux.xml
 python/plugins/processing/tests/testdata/*.aux.xml
 Thumb.db
+Thumbs.db
 Testing/*
